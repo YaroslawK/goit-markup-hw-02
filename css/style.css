@@ -1,0 +1,63 @@
+body{
+
+    color: #111111;
+    background-color: #fafafa;
+}
+
+
+
+.logo {}
+
+.logo-dark {
+    color: black;
+}
+
+
+.navigation{
+    color: var(--NAVY-BLUE, #2E2F42);
+
+        font-family: 'Roboto',
+            sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
+.contacts{
+    color: var(--SLATE, #434455);
+    
+        font-family: 'Roboto',
+            sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
+/* header */
+
+.main{
+
+}
+
+.main-title{
+color: var(--WHITE, #FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
+
+
+
+
+.logo-light{
+color:white;
+}
+

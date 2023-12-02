@@ -52,7 +52,7 @@ ul{
             sans-serif;
         font-size: 16px;
         font-style: normal;
-        font-weight: 400;
+       
         line-height: 24px;
         letter-spacing: 0.32px;
 }
@@ -99,7 +99,6 @@ color: var(--WHITE, #FFF);
         /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
-        font-style: normal;
         font-weight: 500;
         line-height: 24px;
         /* 120% */
@@ -112,8 +111,8 @@ color: var(--WHITE, #FFF);
         /* Body */
         font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
+     
+       
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
@@ -136,7 +135,7 @@ color: var(--WHITE, #FFF);
         /* Header 2 */
         font-family: Roboto;
         font-size: 36px;
-        font-style: normal;
+    
         font-weight: 700;
         line-height: 40px;
         /* 111.111% */
@@ -151,7 +150,7 @@ color: var(--WHITE, #FFF);
         /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
-        font-style: normal;
+     
         font-weight: 500;
         line-height: 24px;
         /* 120% */
@@ -165,8 +164,8 @@ color: var(--WHITE, #FFF);
         /* Body */
         font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
+    
+       
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
@@ -185,7 +184,7 @@ background: #FFF;
         /* Header 2 */
         font-family: Roboto;
         font-size: 36px;
-        font-style: normal;
+    
         font-weight: 700;
         line-height: 40px;
         /* 111.111% */
@@ -199,7 +198,7 @@ background: #FFF;
         /* Header 3 */
         font-family: Roboto;
         font-size: 20px;
-        font-style: normal;
+      
         font-weight: 500;
         line-height: 24px;
         /* 120% */
@@ -212,8 +211,8 @@ background: #FFF;
         /* Body */
         font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
+      
+        
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;
@@ -231,7 +230,7 @@ background: #FFF;
 color: var(--IRIS, #4D5AE5);
     font-family: Raleway;
     font-size: 18px;
-    font-style: normal;
+
     font-weight: 700;
     line-height: 21px;
     /* 116.667% */
@@ -245,8 +244,8 @@ color: var(--IRIS, #4D5AE5);
         /* Body */
         font-family: Roboto;
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
+      
+       
         line-height: 24px;
         /* 150% */
         letter-spacing: 0.32px;

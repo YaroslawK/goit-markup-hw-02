@@ -1,5 +1,5 @@
 body{
-
+    font-family: roboto;
     color: #111111;
     background-color: #fafafa;
 }
@@ -79,7 +79,10 @@ color: var(--WHITE, #FFF);
     border-radius: 4px;
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
 }
+
+/* Section 2 */
 
 .section-second{
     background: #FFF;
@@ -111,8 +114,14 @@ color: var(--WHITE, #FFF);
         letter-spacing: 0.32px;
 }
 
+
+/* Section 3 */
+
 .section-third{
     background: var(--CLOUD, #F4F4FD);
+}
+.photo{
+    background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
 }
 
 .title-team{
@@ -158,6 +167,7 @@ color: var(--WHITE, #FFF);
         letter-spacing: 0.32px;
 }
 
+/* Section 4 */
 
 .section-fourth{
 background: #FFF;

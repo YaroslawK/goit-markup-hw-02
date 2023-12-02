@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif; 
     color: #434455;
     background-color: #FFFFFF;
     font-family: "railway";
@@ -32,6 +32,7 @@ ul{
 }
 
 .navigation{
+  color: #2E2F42;  
             font-family: 'Roboto',
                     sans-serif;
                 font-size: 16px;
@@ -42,8 +43,22 @@ ul{
 }
 
 .navigation:hover{
-    color: #2e2f42;
+    color: #404bbf;
 
+        font-family: 'Roboto',
+            sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+
+}
+
+
+.navigation:focus{
+    color: #404bbf;
+    
         font-family: 'Roboto',
             sans-serif;
         font-size: 16px;
@@ -53,7 +68,11 @@ ul{
         letter-spacing: 0.02em;
 }
 
-.contacts {
+.address{
+    font-style: normal;
+}
+
+.mail-tel {
     color: #434455;
     
         font-family: 'Roboto',
@@ -65,7 +84,9 @@ ul{
         letter-spacing: 0.32px;
 }
 
-.contacts:hover {
+
+
+.mail-tel:hover {
     color:#404bbf;
 
     font-family: 'Roboto',
@@ -77,7 +98,7 @@ ul{
     letter-spacing: 0.32px;
 }
 
-.contacts:focus{
+.mail-tel:focus{
     color: #404bbf;
     
         font-family: 'Roboto',
@@ -304,7 +325,7 @@ color: var(--IRIS, #4D5AE5);
         font-size: 16px;
       
        
-        line-height: 1.17;
+        line-height: 1.5;
         /* 150% */
         letter-spacing: 0.32px;
 }

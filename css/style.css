@@ -1,7 +1,12 @@
 body{
-    font-family: roboto;
+    font-family: "roboto",sans-serif;
     color: #111111;
     background-color: #fafafa;
+    font-family: "railway";
+}
+
+ul{
+    list-style: none;
 }
 /* header */
 
@@ -28,7 +33,7 @@ body{
 }
 
 
-.navigation{
+.navigation:hover{
     color: var(--NAVY-BLUE, #2E2F42);
 
         font-family: 'Roboto',
@@ -40,7 +45,7 @@ body{
         letter-spacing: 0.32px;
 }
 
-.contacts{
+.contacts:hover{
     color: var(--SLATE, #434455);
     
         font-family: 'Roboto',

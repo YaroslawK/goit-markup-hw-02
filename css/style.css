@@ -3,10 +3,25 @@ body{
     color: #111111;
     background-color: #fafafa;
 }
+/* header */
+
+.header{
+    border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
+    background: var(--WHITE, #FFF);
+}
 
 
-
-.logo {}
+.logo {
+    color: var(--IRIS, #4D5AE5);
+        font-family: Raleway;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 21px;
+        /* 116.667% */
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+}
 
 .logo-dark {
     color: black;
@@ -37,7 +52,7 @@ body{
         letter-spacing: 0.32px;
 }
 
-/* header */
+/* main */
 
 .main{
 
